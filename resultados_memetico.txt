@@ -1,0 +1,18 @@
+RESULTADOS - ALGORITMO MEMETICO (PCV)
+Cada instancia foi executada 20 vezes.
+Parametros: populacao=40, geracoes=150, torneio_k=3, taxa_mutacao=0.15
+======================================================================
+
+Problema 1 (Km, n=48)
+----------------------------------------------------------------------
+Menor custo encontrado (das 20 execucoes): 1942.30
+Custo medio:                                     1942.30
+Tempo medio de execucao:                         2.93 s
+Melhor rota encontrada: 32 26 42 35 39 47 37 13 24 29 43 14 46 45 18 15 28 44 41 27 6 30 21 9 8 1 23 4 3 2 5 11 10 12 38 22 48 40 36 25 31 17 7 19 20 33 16 34 32
+
+Problema 2 (Min, n=48)
+----------------------------------------------------------------------
+Menor custo encontrado (das 20 execucoes): 1973.00
+Custo medio:                                     1973.00
+Tempo medio de execucao:                         5.54 s
+Melhor rota encontrada: 44 28 15 18 45 46 14 43 29 24 13 37 47 39 35 42 26 32 16 34 33 19 7 31 36 22 48 40 25 17 20 38 12 9 8
